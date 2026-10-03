@@ -1,0 +1,19 @@
+# Android Studio / IntelliJ
+.idea/
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local machine configuration
+local.properties
+
+# Generated APKs and native build output
+*.apk
+*.aab
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
